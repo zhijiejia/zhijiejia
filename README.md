@@ -1,8 +1,7 @@
-### Hi guys ! 👋
+### Hi guys ! 👋😄
 🔭 I’m currently working on fish!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhijiejia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhijiejia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
 
